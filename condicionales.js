@@ -31,16 +31,4 @@ if (numeroNegativo > 0) {
     console.log("El número negativo es cero.");
 }*/
 
-function areaCircunferencia (radio) {
-    const pi = 3.1415169;
-    const resultado =pi * radio * radio;
-    return resultado;
-}
-const result = areaCircunferencia(324)
-const result1 = areaCircunferencia(143)
-const result2 = areaCircunferencia(567)
-const result3 = areaCircunferencia(785)
-console.log(result)
-console.log(result1)
-console.log(result2)
-console.log(result3)
+
